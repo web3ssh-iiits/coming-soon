@@ -18,7 +18,7 @@ function App() {
       <h2>Web 3.0 Summer School & Hackathon</h2>
       <div className="card">
         <a href="/flyer.png">
-          <button>Download Flyer</button>
+          <button className="btn-white">Download Flyer</button>
         </a>
 
         <p>29th July to 4th August 2024</p>
