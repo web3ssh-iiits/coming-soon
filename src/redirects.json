@@ -3,5 +3,6 @@
   "pay": "/pay.pdf",
   "whatsapp": "https://chat.whatsapp.com/IB17XyKKIvx2uo0i5DYDTS",
   "pitch": "/pitch_deck.pdf",
-  "cfs": "call_for_speakers.pdf"
+  "cfs": "call_for_speakers.pdf",
+  "promo": "call_for_promoters.pdf"
 }
